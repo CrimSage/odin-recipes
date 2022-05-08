@@ -38,3 +38,6 @@ li {
 .recipe.image {
     text-align: center;
 }
+button:hover {
+    background-color: hsla(145, 63%, 20%, 0.872);
+}
